@@ -17,4 +17,4 @@ For more details, check our paper from Supercomputing 2021: [Clairvoyant Prefetc
 
 ----
 
-We are currently preparing a more "production-ready" release, which will be out soon!
+We are currently preparing a more "production-ready" release, which will be out soon! If you are interested in the original "research" code, look at the `old-nopfs` branch.
